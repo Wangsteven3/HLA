@@ -1,6 +1,8 @@
 # HLA
-This a website I created for my university club: Harlem Launch Alliance
+Website I renovated for my university club: Harlem Launch Alliance
 
-Beta: Still in work
+Status: In progess
+
+Collaboration: dye784
 
 ![alt text](https://i.imgur.com/XPQDrkq.jpg)
