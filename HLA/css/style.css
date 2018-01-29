@@ -3,8 +3,7 @@ Template 2081 Solution
 http://www.tooplate.com/view/2081-solution
 */
 
-body
-	{
+body {
 		background: #ffffff;
         font-family: 'Raleway', sans-serif;
 		font-weight: 400;
@@ -40,46 +39,50 @@ p
         margin: 0 !important;
         padding: 0;
     }
-.navbar-default .navbar-brand
-    {
-        padding-top: 30px;
-        padding-bottom: 60px;
+.navbar-default .navbar-brand {
+        padding-top: 10px;
+        padding-bottom: 150px;
     }
+
 .navbar-default .navbar-nav li a /* The font size on nav bar */
     {
-        font-size: 18px;
+        font-size: 22px;
         font-weight: bold;
-        line-height: 50px;
+        line-height: 100px;
     }
-.navbar-default .navbar-nav li a:hover, .navbar-default .navbar-brand h3:hover
-    {
+.navbar-default .navbar-nav li a:hover, .navbar-default .navbar-brand h3:hover {
         color: #39185D;
     }
+
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #39185D;
   background-color: transparent;
 }
-.navbar-default .navbar-toggle
-    {
+
+.navbar-default .navbar-toggle {
         border: none;
         padding-top: 16px;
     }
-.navbar-default .navbar-toggle .icon-bar
-    {
+
+.navbar-default .navbar-toggle .icon-bar {
         background: #39185D;
         border-color: transparent;
     }
+
 .navbar-default .navbar-toggle:hover,
-.navbar-default .navbar-toggle:focus { background-color: transparent }
+.navbar-default .navbar-toggle:focus {
+	background-color: transparent
+}
+
 /* end navigation */
 
 /* start home */
-#home
-	{
-      padding-top: 65px;
+#home {
+      padding-top: 150px;
 	}
+
 .flexslider {
   margin: 0 0 60px;
   background: #fff;
@@ -178,8 +181,8 @@ p
 /* end service */
 
 /* start divider */
-#divider
-    {
+#divider {
+				padding-top: 100px;
         background: url('../images/divider-bg2.jpg');
         background-size: cover;
         background-repeat: no-repeat;
@@ -248,7 +251,7 @@ p
 
 /* start team */
 #team {
-				padding-top: 130px;
+				padding-top: 160px;
         border-top: 1px solid #f6f6f6;
         border-bottom: 1px solid #f6f6f6;
         text-align: center;
@@ -283,7 +286,7 @@ p
 /* end team */
 
 /* start newsletter */
-#newsletter
+ #newsletter
     {
         background: url('../images/newsletter-bg.jpg') center center;
         background-size: cover;
@@ -330,8 +333,8 @@ p
 }
 /* end newsletter */
 
-/* start projects */
-/*#projects
+/* start projects */ /* Gallery*/
+#projects
     {
         border-bottom: 1px solid #f6f6f6;
     }
@@ -398,11 +401,10 @@ p
     margin-bottom: 20px;
     transition: all 0.4s ease-in-out;
   }
-#projects .plan .btn:hover
-  {
+#projects .plan .btn:hover {
     background: #FFFFFF;
     color: #66AF33;
-  }*/
+  }
 /* end projects */
 
 /* start gallery */
