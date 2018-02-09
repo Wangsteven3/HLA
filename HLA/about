@@ -5,6 +5,7 @@
 		<meta charset="utf-8">
 
 		<title>Harlem Launch Alliance</title>
+
 		
 		<!--
 		Harlem Launch Alliance
@@ -12,6 +13,7 @@
 		Author: Stephen wang and Damon Yue
 
 		-->
+
 		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -76,7 +78,9 @@
           <div class="col-md-6 col-sm-6 wow fadeInLeft" data-wow-delay="0.6s">
             <h3>About Harlem Launch Alliance</h3>
             <h4>Ambitious and resourceful</h4>
+
             <p>Harlem Launch Alliance (HLA) is a registered 501c3 nonprofit corporation headquartered in the Grove School of Engineering at the City College of New York. The purpose of the HLA is to support amateur experimental aerospace research at CCNY. Research is primarily directed at experimental rocketry, most notably hybrid rocketry, but also includes composite materials manufacturing and novel new recovery system schemes. HLA has a diverse student body with various skills. If you're inspired by our work, and would like to know how to contribute to our effort, know that you do not need to be an engineer or scientist! Hit us up on Facebook at @hla.nyc or sign up for our newsletter and tell us a little about yourself!" </p>
+
           </div>
           <div class="col-md-6 col-sm-6 wow fadeInRight" data-wow-delay="0.6s">
             <img src="images/HLA img/HLALogo.jpg" class="img-responsive">
