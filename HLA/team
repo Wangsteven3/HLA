@@ -5,13 +5,14 @@
 		<meta charset="utf-8">
 
 		<title>Harlem Launch Alliance</title>
-<!--
 
-Template 2081 Solution
+		<!--
+		Harlem Launch Alliance
 
-https://www.tooplate.com/view/2081-solution
+		Author: Stephen wang and Damon Yue
 
--->
+		-->
+
 		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -46,6 +47,7 @@ https://www.tooplate.com/view/2081-solution
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="index.html" class="smoothScroll">HOME</a></li>
 						<li><a href="about" class="smoothScroll">ABOUT</a></li>
+						<li><a href="project" class="smoothScroll">PROJECT</a></li>
 						<li><a href="team" class="smoothScroll">TEAM</a></li>
 						<li><a href="sponsors" class="smoothScroll">SPONSORS</a></li>
 						<li><a href="contact" class="smoothScroll">CONTACT</a></li>
@@ -151,7 +153,6 @@ https://www.tooplate.com/view/2081-solution
 					</div>
 				</div>
 
-
 				<div class="row">
 					<div class="col-md-12">
 					</div>
@@ -162,16 +163,16 @@ https://www.tooplate.com/view/2081-solution
 							<p></p>
 						</div>
 					<div class="col-md-4 col-sm-4 wow fadeIn" data-wow-delay="0.3s">
-					<center><img src="images/members/blank.png" class="img-responsive" alt="" height="280" width="280"></center>
-								<h4>TBA</h4>
-								<h3>TBA</h3>
-								<p>TBA</p>
+					<center><img src="" class="img-responsive" alt="" height="280" width="280"></center>
+								<h4></h4>
+								<h3></h3>
+								<p></p>
 						</div>
 					<div class="col-md-4 col-sm-4 wow fadeIn" data-wow-delay="0.3s">
-					<center><img src="images/members/blank.png" class="img-responsive" alt="" height="800" width="280"></center>
-								<h4>TBA</h4>
-								<h3>TBA</h3>
-								<p>TBA</p>
+					<center><img src="" class="img-responsive" alt="" height="800" width="280"></center>
+								<h4></h4>
+								<h3></h3>
+								<p></p>
 					</div>
 				</div>
 			</div>
