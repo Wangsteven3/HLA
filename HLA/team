@@ -6,7 +6,6 @@
 
 		<title>Harlem Launch Alliance</title>
 
-
 		<!--
 		Harlem Launch Alliance
 
@@ -48,6 +47,7 @@
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="index.html" class="smoothScroll">HOME</a></li>
 						<li><a href="about" class="smoothScroll">ABOUT</a></li>
+						<li><a href="project" class="smoothScroll">PROJECT</a></li>
 						<li><a href="team" class="smoothScroll">TEAM</a></li>
 						<li><a href="sponsors" class="smoothScroll">SPONSORS</a></li>
 						<li><a href="contact" class="smoothScroll">CONTACT</a></li>
@@ -163,7 +163,6 @@
 							<p></p>
 						</div>
 					<div class="col-md-4 col-sm-4 wow fadeIn" data-wow-delay="0.3s">
-
 					<center><img src="" class="img-responsive" alt="" height="280" width="280"></center>
 								<h4></h4>
 								<h3></h3>

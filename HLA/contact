@@ -6,14 +6,13 @@
 
 		<title>Harlem Launch Alliance</title>
 
-
 		<!--
 		Harlem Launch Alliance
 
 		Author: Stephen wang and Damon Yue
 
 		-->
-		
+
 		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -48,6 +47,7 @@
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="index.html" class="smoothScroll">HOME</a></li>
 						<li><a href="about" class="smoothScroll">ABOUT</a></li>
+						<li><a href="project" class="smoothScroll">PROJECT</a></li>
 						<li><a href="team" class="smoothScroll">TEAM</a></li>
 						<li><a href="sponsors" class="smoothScroll">SPONSORS</a></li>
 						<li><a href="contact" class="smoothScroll">CONTACT</a></li>

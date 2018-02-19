@@ -37,7 +37,7 @@ p  {
 
 /* start nagivation */
 .navbar-default {
-        background: #fff;
+        background: #fff; /*navbar background color */
         border: none;
         box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.08);
         margin: 0 !important;
@@ -50,14 +50,14 @@ p  {
         padding-bottom: 65px;
     }
 
-.navbar-default .navbar-nav li a /* The font size on nav bar */
-    {
+.navbar-default .navbar-nav li a /* The font size on nav bar */ {
         font-size: 18px;
         font-weight: bold;
         line-height: 65px;
+				color: purple; /*font color on navbar */
     }
 
-.navbar-default .navbar-nav li a:hover, .navbar-default .navbar-brand h3:hover {
+.navbar-default .navbar-nav li a: hover, .navbar-default .navbar-brand h3: hover {
         color: #39185D;
     }
 
@@ -83,7 +83,38 @@ p  {
 	background-color: transparent
 }
 
+.nav-pills > li > a: hover, .navbar-default .nav-pills > li > a: focus {
+    background-color: transparent !important;
+		color: #39185D;
+}
+
+.nav-pills {
+
+	padding-top: ;
+}
+
+.nav-pills li a {
+
+	margin-left: 5px;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+
+.left {
+    width: 8%;
+    float: left;
+}
+
 /* end navigation */
+
+#Project_A {
+	padding-left: 50px;
+}
+
+#Project_M {
+	padding-right: 500px;
+}
 
 
 
@@ -349,6 +380,17 @@ p  {
 }
 /* end newsletter */
 /*end of About page*/
+
+
+
+/* start of Project page */
+#ProjectDescription {
+	padding-left: 200px;
+
+}
+
+/* End of Project page */
+
 
 
 

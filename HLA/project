@@ -48,7 +48,7 @@
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="index.html" class="smoothScroll">HOME</a></li>
 						<li><a href="about" class="smoothScroll">ABOUT</a></li>
-							<li><a href="project" class="smoothScroll">PROJECT</a></li>
+						<li><a href="project" class="smoothScroll">PROJECT</a></li>
 						<li><a href="team" class="smoothScroll">TEAM</a></li>
 						<li><a href="sponsors" class="smoothScroll">SPONSORS</a></li>
 						<li><a href="contact" class="smoothScroll">CONTACT</a></li>
@@ -92,30 +92,59 @@
 		 					</li>
 				</div> -->
 
-		<!-- start divider -->
-		<div id = "ProjectDescription">
-			<div class = "container">
-						<h2><strong>Our Projects</strong></h2>
-					</div>
-		</div>
+		<!-- start page title -->
+		<center><h2><strong>Our Expedition</strong></h2></center>
 
-		<!-- end divider -->
+		<!-- end page title -->
+
+		<!-- left navbar -->
 		<div id = "left navbar">
 				<div class = "left">
 					 <ul class = "nav">
-							 <li><a>Home</a></li>
-							 <li><a>About</a></li>
+							<li><a href="#">Project A</a></li>
+							<li><a href="#">Project M</a></li>
+							<li><a href="#"></a></li>
 					 </ul>
 		 </div>
 	 </div>
 
+		<section id= "Project_Aries">
+		<div class="row">
+			<div class="col-md-8 col-sm-7">
+					<h2 id = "ProjectA"> Project Aries</h2>
+ 					<p id = "ProjectA" > Founded in August of 2016, Project Aries is the most ambitious engineering project ever attempted at the City College of New York.
+					Aries designs the G-series hybrid rocket engines that will eventually power an HLA rocket into low-Earth orbit. The first of the series,
+					the G-3, is slated for cold-flow testing in the April of this year. Aries-1, the first flight of a rocket powered by a G-3, is scheduled
+					for June of 2019 at the 3rd Spaceport America Cup. The operational ceiling of the Aries-1 rocket will depend on the outcome of hot-fire testing
+					scheduled to being in June and end in November of 2018. The approximate altitude is somewhere between 30,000 and 100,000 feet.
+					Project Aries is expected to run through 2021 as well and about four missions.
+					</p>
+				</div>
+			</div>
+		</div>
+
+		<section id= "Project_Messenger">
+		 <div class = "row">
+			 <div class = "col-md-8 col-sm-7">
+					 <h2 id = "ProjectM"> Project Messenger</h2>
+					 <p id = "ProjectM"> Founded in January of 2016, Project Messenger marked City College of New York’s first participation in the Inter-collegiate Rocket Engineering Competition.
+						 The focus of the project is on recovery system and airframe design. The Project designs the CX (City College Experimental) series rockets, the fourth of which,
+						 the CX-4, is currently being designed for the Messenger-3 mission at the 2nd Spaceport America Cup. Though there have been several iterations in the series,
+						 all of the designs share some basic similarities. All are flown on the pre-fabricated Aerotech M750 solid rocket motor, have the same recovery system concept,
+						 and have flight ceilings slightly above 10,000 feet. The CX-4 will be the first amateur rocket to be designed with an aerostructure made of wood and fiberglass.
+						 The project will eventually move onto active control systems that can be used to keep the rocket stable using movable fins or gimbaled engines. Project Messenger
+						 is projected to run through 2021 and about seven missions.
+					 </p>
+				 </div>
+			 </div>
+		 </div>
 
 	 <!-- start footer -->
 	 <footer>
 	 	<div class="container">
 	 		<div class="row">
-	 			<div class="col-md-8 col-sm-7">
-	 				<p>Copyright &copy; 2017 Harlem Launch Alliance</p>
+	 			<div class="col-md-8 col-sm-7 pull-left">
+	 			<p>Copyright &copy; 2017 Harlem Launch Alliance</p>
 	 			</div>
 	 			<div class="col-md-4 col-sm-5 pull-right"> <!-- original code: <div class="col-md-4 col-sm-5"-->
 	 				<ul class="social-icon">
