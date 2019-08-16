@@ -1,7 +1,7 @@
 # HLA
-Website I renovated for my university club: Harlem Launch Alliance
+Website I renovated for my university organization: Harlem Launch Alliance
 
-Status: In progess
+Status: In progess - expired December 2018
 
 Collaboration: dye784
 
